@@ -3,8 +3,6 @@
   <img src="https://github.com/NothingADSR123/VizAlgo/blob/4790442a8d467ed64034825fbd4b6ee218eb951d/VizAlgo/public/Logo.png" width="200" height="200">
 </div>
 
-## 🌟 Live Demo
-Check out the live application at: [vizalgo-visualizer.netlify.app](https://vizalgo-visualizer.netlify.app)
 
 ## 📖 About VizAlgo
 VizAlgo is an interactive algorithm visualization platform designed to help students, developers, and coding enthusiasts understand complex algorithms through visual representations. Our platform makes learning algorithms more intuitive and engaging by providing step-by-step visualizations of various algorithmic processes.
