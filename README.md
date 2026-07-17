@@ -79,11 +79,6 @@ VizAlgo is an interactive algorithm visualization platform designed to help stud
 ## 🤝 Contributing
 We welcome contributions to VizAlgo! Please feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-- GitHub: [@nothingADSR123](https://github.com/nothingADSR123)
 
 ## 🙏 Acknowledgments
 - Special thanks to all contributors and supporters
